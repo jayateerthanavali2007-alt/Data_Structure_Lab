@@ -1,2 +1,3 @@
 # Data_Structure_Lab
- every files of lab sessions are saved here
+ every week lab files are saved here
+ 
