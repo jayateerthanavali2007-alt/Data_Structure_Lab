@@ -65,7 +65,6 @@ int main(){
         scanf("%d", &choice);
         switch(choice){
             case 1:
-                // UX Check: Don't ask for input if already full
                 if(front == ((rear + 1) % MAX)){
                     printf("Queue overflow! Cannot insert more items.\n");
                 } else {
